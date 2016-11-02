@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MVPTemplate</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_email">Email Address</string>
+    <string name="hint_password">Password</string>
+
+    <string name="text_submit">Submit</string>
+
+    <string name="verif_email">Format Email Salah</string>
+    <string name="verif_password">Password Kurang dari 5 Karakter</string>
+
+    <string name="valid_email">admin@gmail.com</string>
+    <string name="valid_password">password</string>
+</resources>
